@@ -86,9 +86,14 @@ session_start();
     .footer {
       background-color: #8b0000;
       color: #fff;
-      padding: 25px 0;
+      padding: 20px 5px;
       text-align: center;
       font-size: 0.95rem;
+    }
+
+    .footer p {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
     }
   </style>
 </head>
